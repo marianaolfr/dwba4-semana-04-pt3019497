@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.menu {
+  list-style: none;
+  text-align: right;
+}
+
+.item {
+  display: inline;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.banner {
+  width: 55%;
+}
+
+.icone-biblioteca {
+  width: 15%;
+}
